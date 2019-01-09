@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+.header{
+color:red;
+backgrouynd-color:yellow;
+width:100%;
+heigh":40px;
+}
+</style>
+<body>
+<div class="header">
+<h1> teletext holidays</h1>
+</div>
+</body>
+</head>
+</html>
